@@ -8,13 +8,13 @@ This challenge required a climate analysis of the hawaii.sqlite file and was com
 
 The queries can be found in the climate.ipynb file and it includes the following queries:
 
-    - The last 12 months or precipitation data.
+    - The last 12 months of precipitation data.
     - List of stations and temperature observations
     - The last 12 months of temperature observation data
     - The station with the highest number of temperature observations
 
 ## Climate Application
-Following the initial analysis, I desgiend a Flask API based on the queries to create the routes.
+Following the initial analysis, I designed a Flask API based on the queries to create the routes.
 
 These routes include:
 
